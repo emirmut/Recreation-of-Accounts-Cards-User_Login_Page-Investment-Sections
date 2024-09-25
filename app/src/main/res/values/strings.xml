@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GoldenGlobalMobile</string>
+    <string name="lorem">"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"</string>
+    <string name="openAccountText">Hesap cüzdanları, cari hesabın varlığını hukuken ispatlayıcı belgelerdir. Fiziki hesap cüzdanınızı Golden Global Bank Genel Müdürlüğü\'nden temin edebilir veya Golden Global Mobil\'de hesap detayı ekranının üstündeki ikona tıklayarak elektronik hesap cüzdanınıza ulaşabilirsiniz.</string>
+    <string name="cariAccount">Cari Hesap vadesiz olarak açılan, istenildiği zaman para yatırılıp çekilebilen hesap türüdür. Türk Lirası veya yabancı para cinsinden açılabilen, karşılığında herhangi bir getiri sunulmayan cari hesaplardan işletim ücreti alınmamaktadır. Cari hesaplarından para transferi, finansman ödemeleri, döviz ve kıymetli maden alış işlemlerini gerçekleştirebilirsiniz.</string>
+    <string name="kiymetliMadenAccount">Kıymetli Maden Hesabı; Altın, Gümüş ve Platin cinsinden açılabilen vadesiz hesap türüdür. TL, USD veya EUR karşılığında alış ya da satış gerçekliştirilebilir.</string>
+    <string name ="standardPrepaidKart">Ön ödemeli kartlar seni borçlandırmayan, yatırdığın bakiye kadar kullanabildiğin ve bir bankaya ihtiyaç duymadan kullanabildiğin yeni nesil kartlardır.</string>
+    <string name="cardsText1">Tüm dünyada geçerli</string>
+    <string name="cardsText2">Temassız Ödeme</string>
+    <string name="cardsText3">TL, USD, EUR bakiyelerinizi yurtiçi ve yurtdışında kullanma imkanı</string>
+    <string name="cardsText4">Kart ücreti, aylık ücret yok</string>
+    <string name="cardsText5">Tüm ATM’lerden para yatır/çek</string>
+    <string name="cardsText6">İnternet harcamalarında güvenli ödeme</string>
+    <string name="cardsText7">Yurt içinde geçerli</string>
+    <string name="cardsText8">TL, USD, EUR bakiyelerinizi yurtiçinde kullanma imkanı</string>
+    <string name="cardsText9">2000 TL tek seferlik Kart Ücreti</string>
+    <string name="cardsText10">18 gram paslanmaz çelik</string>
+    <string name="cardsText11">Aylık ücret yok</string>
+    <string name="changePassword">Şifreniz 4 rakamdan oluşmalıdır. Güçlü bir şifre için belirleyeceğiniz şifre tekrarlı rakamlardan, ardışık rakamlardan, doğum tarihinizden, müşteri numaranızdan ve benzeri tahmin edilmesi kolay desenlerden oluşmamalıdır.</string>
+    <string name="addUserPasswordInfo0">İnternet şubeye girişte ve mobil şube gibi dijital kanalları doğrulamada kullanılan,</string>
+    <string name="addUserPasswordInfo1">Rakamlardan ve 6 haneden oluşan,</string>
+    <string name="addUserPasswordInfo2">İlk kez şubeden aldığınız veya şubeden şifre sıfırlandığında gelen 36 saatlik geçici şifrenizdir.</string>
+    <string name="addUserPasswordInfo3">İlk şifrenizi, Golden Global Çağrı Merkezi 0212 215 26 41\'i arayarak şifre adımlarını tamamlayarak edinebilirsiniz. Bu ilk şifreyi yine internet şubeden değiştirebilirsiniz</string>
+    <string name="addUserPasswordInfo4">(Kurumsal müşterilerin, internet şube ya da mobil şubeye ilk girişte kullanacakları şifre için şubeleri ile görüşmeleri gerekmektedir.)</string>
+    <string name="openInvestmentAccountInfoText">Yatırım Hesabı Ekstrelerinizi Golden Global Bank Genel Müdürlüğü\'nden temin edebilir veya Golden Global Mobil\'den ekstrenize ulaşabilirsiniz.</string>
+    <string name="myInvestmentAccountsNoAccountsText">Bankamızda kayıtlı yatırım hesabınız bulunmamaktadır. \"Yatırım Hesabı Aç\" butonuna basarak hesap açılışınızı hemen yapabilirsiniz.</string>
+    <string name="compatibilityTestInfoText">Sermaye Piyasası Kurulu\'nun \"Yatırım Kuruluşlarının Kuruluş ve Faaliyet Esasları Hakkında Tebliğ\" ine uyum çerçevesinde, yatırımcılar profesyonel ve genel olma üzere sınıflandırılmış ve genel sınıfındaki müşterilere uygunluk testi uygulama zorunluluğu getirilmiştir.</string>
+    <string name="compatibilityTestRiskText">Daha önce hangi ürünlere, ne sıklıkla yatırım yaptınız ve bu ürünlerdeki geçmiş bir yıllık dönemdeki işlem hacminiz ne kadardır?</string>
+    <string name="typesOfRisksSubTexts0">Repo - Test Repo, BPP, Para Piyasası Fonu, vb.</string>
+    <string name="typesOfRisksSubTexts1">Hazine bonosu, devlet tahvili, hazine kira sertifikaları, yatırımcı bilgi formunda risk değeri 2 ve 3 olan yatırım fonları, vb.</string>
+    <string name="typesOfRisksSubTexts2">Ortaklık payı, eurobond, dövizli tahviller, özel sektör borçlanma araçları, kira sertifikaları, yatırımcı bilgi formunda risk değeri 4 olan yatırım fonları, vb.</string>
+    <string name="typesOfRisksSubTexts3">Türev işlemler, (Vadeli işlem ve opsiyon piyasasında), varant, yatırım kuruluşu sertifiaksı, yatırımcı bilgi formunda risk değeri 5 ve 6 olan yatırım fonları, vb.</string>
+    <string name="typesOfRisksSubTexts4">Tezgahüstü türev işlemler, yapılandırılmış borçlanma araçları, kaldıraçlı alım satım işlemleri, - FX, yatırımcı bilgi formunda risk değeri 7 olan yatırım fonları vb.</string>
+    <string name="compatibilityTestResultsInfoText">Verdiğiniz cevaplar doğrultusunda size uygun olan ve olmayan ürünler yukarıda belirtilmiştir.</string>
+    <string name="compatibilityTestResultsInfoText2">Verdiğim bilgilerin doğru olduğunu ve bunlar doğrultusunda yapılan değerlendirme sonuçlarının tarafıma iletildiğini kabul ederim.</string>
+</resources>
